@@ -1,4 +1,4 @@
-#  Phishing Attack Detection System 🎣
+#  Phishing-Attack-Detection-System 🎣
 
 A web-based machine learning application that detects phishing websites from URLs. This system identifies fraudulent links by analyzing various URL features and classifying them as **SAFE ✅** or **PHISHING 🚨**.  
 
