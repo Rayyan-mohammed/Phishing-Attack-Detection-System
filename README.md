@@ -109,11 +109,12 @@ Enter any URL into the input box and click **"Check URL"** to see if it's a phis
 ---
 
 ## 📊 Model Performance  
-The Random Forest classifier achieves high accuracy in detecting phishing URLs:  
 
-- **Accuracy:** >95% on test data  
-- **Precision:** >94% for phishing detection  
-- **Recall:** >96% for identifying phishing sites  
+The Random Forest classifier was trained and evaluated on the phishing dataset, achieving the following results:  
+
+- **Accuracy**: 89%  
+- **Precision**: 85% (for phishing detection)  
+- **Recall**: 77% (for identifying phishing sites)  
 
 ---
 
