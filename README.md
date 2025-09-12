@@ -141,7 +141,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact  
 **Rayyan Mohammed**  
 - GitHub: [@Rayyan-mohammed](https://github.com/Rayyan-mohammed)  
-- Email: rayyan1652@example.com  
+- Email: rayyan1652@gmail.com  
 
 Project Link: [Phishing Attack Detection System](https://github.com/Rayyan-mohammed/Phishing-Attack-Detection-System)  
 
