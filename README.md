@@ -1,10 +1,5 @@
 #  Phishing Attack Detection System 🎣
 
-![Python](https://img.shields.io/badge/Python-3.7%252B-blue?logo=python)  
-![Flask](https://img.shields.io/badge/Flask-Web%2520Framework-lightgrey?logo=flask)  
-![Scikit-learn](https://img.shields.io/badge/ML-Scikit--learn-orange?logo=scikit-learn)  
-![License](https://img.shields.io/badge/License-MIT-green.svg)  
-
 A web-based machine learning application that detects phishing websites from URLs. This system identifies fraudulent links by analyzing various URL features and classifying them as **SAFE ✅** or **PHISHING 🚨**.  
 
 ---
