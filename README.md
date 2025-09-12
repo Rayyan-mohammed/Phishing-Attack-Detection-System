@@ -144,11 +144,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Email: rayyan1652@gmail.com  
 
 Project Link: [Phishing Attack Detection System](https://github.com/Rayyan-mohammed/Phishing-Attack-Detection-System)  
-
----
-
-## 🙏 Acknowledgments  
-- [Kaggle](https://www.kaggle.com/) for providing the phishing dataset  
-- [Scikit-learn](https://scikit-learn.org/) team for the ML library  
-- [Flask](https://flask.palletsprojects.com/) team for the web framework  
-- Cybersecurity researchers contributing to phishing detection methodologies  
