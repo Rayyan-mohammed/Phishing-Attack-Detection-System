@@ -131,7 +131,7 @@ Contributions, issues, and feature requests are welcome!
 
 ## 📝 License  
 This project is licensed under the MIT License
-
+Feel free to use, modify, and distribute it in both personal and commercial projects.
 ---
 
 ## 📧 Contact  
